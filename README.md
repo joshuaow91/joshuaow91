@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">A Full-Stack Engineer in Texas</h3>
 
-- Customer-focused software developer with a strong command of Angular, React, TypeScript, JavaScript and Node.js. Skilled in delivering data-driven solutions while excelling as an effective communicator and team member.![image](https://github.com/joshuaow91/joshuaow91/assets/113389785/bfa23674-7598-444d-addd-02f28f58d837)
+- Customer-focused software developer with a strong command of Angular, React, TypeScript, JavaScript and Node.js. Skilled in delivering data-driven solutions while excelling as an effective communicator and team member.
 
 - 👨‍💻 All of my projects are available at [https://joshuaow.com](https://joshuaow.com)
 

@@ -17,23 +17,16 @@ Here are some projects I've created for clients:
 
 [BattleOptions](https://contest.stratalerts.com/)  
 Java/Spring Boot, React, Postgres, Tailwind  
-
----
  
 [Save On Prop Firms](https://www.saveonpropfirms.com/)  
 Java/Spring Boot, React, Postgres, Tailwind  
 
----
-
 [STAT Trading](https://stratalerts.com/)  
 React, TypeScript, Tailwind  
-
----
 
 [TFO Trading Indicators](https://stratalerts.com/tfo)  
 React, TypeScript, Tailwind  
 
----
 
 [TFO Doc Library](https://tfodocs.netlify.app/)  
 React, TypeScript, Tailwind  

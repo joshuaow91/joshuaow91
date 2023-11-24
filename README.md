@@ -12,22 +12,29 @@ A Full-Stack Engineer in Texas<br>Customer-focused software developer with a str
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaow91&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Projects from Private Repos
-Here are some projects i've created for clients <br/>
-BattleOptions - https://contest.stratalerts.com/ <br/>
-Java/Spring Boot, React, Tailwind<br/>
+
+Here are some projects I've created for clients:
+
+**BattleOptions** - [https://contest.stratalerts.com/](https://contest.stratalerts.com/)  
+Java/Spring Boot, React, Postgres, Tailwind  
 ---
-Save On Prop Firms - https://www.saveonpropfirms.com/ <br/>
-Java/Spring Boot, React, Tailwind<br/>
+
+**Save On Prop Firms** - [https://www.saveonpropfirms.com/](https://www.saveonpropfirms.com/)  
+Java/Spring Boot, React, Postgres, Tailwind  
 ---
-STAT Trading - https://stratalerts.com/ <br/>
-React, TypeScript, Tailwind <br/>
---
-TFO Trading Indicators - https://stratalerts.com/tfo <br/>
-React, TypeScript, Tailwind <br/>
+
+**STAT Trading** - [https://stratalerts.com/](https://stratalerts.com/)  
+React, TypeScript, Tailwind  
 ---
-TFO Doc Library - https://tfodocs.netlify.app/ <br/>
-React, TypeScript, Tailwind <br/>
+
+**TFO Trading Indicators** - [https://stratalerts.com/tfo](https://stratalerts.com/tfo)  
+React, TypeScript, Tailwind  
 ---
+
+**TFO Doc Library** - [https://tfodocs.netlify.app/](https://tfodocs.netlify.app/)  
+React, TypeScript, Tailwind  
+---
+
 [![](https://visitcount.itsvg.in/api?id=joshuaow91&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

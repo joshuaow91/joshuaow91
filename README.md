@@ -11,6 +11,13 @@ A Full-Stack Engineer in Texas<br>Customer-focused software developer with a str
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joshuaow91&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaow91&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# Project from Private Repos
+Here are some projects i've created for clients
+BattleOptions - https://contest.stratalerts.com/ <br/>
+Save On Prop Firms - https://www.saveonpropfirms.com/ <br/>
+STAT Trading - https://stratalerts.com/ <br/>
+TFO Trading Indicators - https://stratalerts.com/tfo <br/>
+TFO Doc Library - https://tfodocs.netlify.app/ <br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=joshuaow91&icon=0&color=0)](https://visitcount.itsvg.in)
 

@@ -11,8 +11,8 @@ A Full-Stack Engineer in Texas<br>Customer-focused software developer with a str
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joshuaow91&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaow91&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Project from Private Repos
-Here are some projects i've created for clients
+# Projects from Private Repos
+Here are some projects i've created for clients <br/>
 BattleOptions - https://contest.stratalerts.com/ <br/>
 Save On Prop Firms - https://www.saveonpropfirms.com/ <br/>
 STAT Trading - https://stratalerts.com/ <br/>

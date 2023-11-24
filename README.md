@@ -14,10 +14,19 @@ A Full-Stack Engineer in Texas<br>Customer-focused software developer with a str
 # Projects from Private Repos
 Here are some projects i've created for clients <br/>
 BattleOptions - https://contest.stratalerts.com/ <br/>
+Java/Spring Boot, React, Tailwind<br/>
+---
 Save On Prop Firms - https://www.saveonpropfirms.com/ <br/>
+Java/Spring Boot, React, Tailwind<br/>
+---
 STAT Trading - https://stratalerts.com/ <br/>
+React, TypeScript, Tailwind <br/>
+--
 TFO Trading Indicators - https://stratalerts.com/tfo <br/>
+React, TypeScript, Tailwind <br/>
+---
 TFO Doc Library - https://tfodocs.netlify.app/ <br/>
+React, TypeScript, Tailwind <br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=joshuaow91&icon=0&color=0)](https://visitcount.itsvg.in)
 

@@ -16,10 +16,10 @@ A Full-Stack Engineer in Texas<br>Customer-focused software developer with a str
 Here are some projects I've created for clients:
 
 [BattleOptions](https://contest.stratalerts.com/)  
-Java/Spring Boot, React, Postgres, Tailwind  
+Java, Spring Boot, React, Postgres, Tailwind  
  
 [Save On Prop Firms](https://www.saveonpropfirms.com/)  
-Java/Spring Boot, React, Postgres, Tailwind  
+Java, Spring Boot, React, Postgres, Tailwind  
 
 [STAT Trading](https://stratalerts.com/)  
 React, TypeScript, Tailwind  

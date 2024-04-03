@@ -1,5 +1,6 @@
 # Hi 👋, I'm Josh
-A Full-Stack Engineer in Texas<br>Customer-focused software developer with a strong command of React & Java. Skilled in delivering data-driven solutions while excelling as an effective communicator and team member.<br><br>👨‍💻 All of my projects are available at https://joshuaow.com
+A Software Engineer with experience in developing scalable customer-centric solutions. Effectively able to utilize problem solving and communication skills to understand ambiguous clientele and business needs and develop solutions quickly and efficiently.<br><br>
+👨‍💻 All of my projects are available at https://joshuaow.com
 
 
 ## 🌐 Socials:

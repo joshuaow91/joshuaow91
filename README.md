@@ -20,7 +20,7 @@ Here are some projects I've created for clients:
 Java, Spring Boot, React, Postgres, Tailwind  
  
 [Save On Prop Firms](https://www.saveonpropfirms.com/)  
-Next.js, Tailwind, Contentful Headless CMS 
+Next.js, Tailwind, Contentful Headless CMS
 
 [STAT Trading](https://stratalerts.com/)  
 React, TypeScript, Tailwind  

@@ -22,6 +22,9 @@ Java, Spring Boot, React, Postgres, Tailwind
 [Save On Prop Firms](https://www.saveonpropfirms.com/)  
 Next.js, Tailwind, Contentful Headless CMS
 
+[Rise Statistics](https://risestatistics.com/)
+React, Tailwind, Framer Motion
+
 [STAT Trading](https://stratalerts.com/)  
 React, TypeScript, Tailwind  
 

@@ -16,23 +16,23 @@ A Software Engineer with experience in developing scalable customer-centric solu
 
 Here are some projects I've created for work & clients:
 
-## [BattleOptions](https://contest.stratalerts.com/)  
-#### Java, Spring Boot, React, Postgres, Tailwind  
+[BattleOptions](https://contest.stratalerts.com/)  
+Java, Spring Boot, React, Postgres, Tailwind  
  
-## [Save On Prop Firms](https://www.saveonpropfirms.com/)  
-#### Next.js, Tailwind, Contentful Headless CMS
+[Save On Prop Firms](https://www.saveonpropfirms.com/)  
+Next.js, Tailwind, Contentful Headless CMS
 
-## [Rise Statistics](https://risestatistics.com/) 
-#### React, Tailwind, Framer Motion
+[Rise Statistics](https://risestatistics.com/)    
+React, Tailwind, Framer Motion
 
-## [STAT Trading](https://stratalerts.com/)  
-#### React, TypeScript, Tailwind  
+[STAT Trading](https://stratalerts.com/)  
+React, TypeScript, Tailwind  
 
-## [TFO Trading Indicators](https://stratalerts.com/tfo)  
-#### React, TypeScript, Tailwind  
+[TFO Trading Indicators](https://stratalerts.com/tfo)  
+React, TypeScript, Tailwind  
 
-## [TFO Doc Library](https://tfodocs.netlify.app/)  
-#### React, TypeScript, Tailwind  
+[TFO Doc Library](https://tfodocs.netlify.app/)  
+React, TypeScript, Tailwind  
 
 ---
 

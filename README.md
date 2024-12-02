@@ -14,7 +14,7 @@ A Software Engineer with experience in developing scalable customer-centric solu
 
 # Projects from Private Repos
 
-Here are some projects I've created for clients:
+Here are some projects I've created for work & clients:
 
 ## [BattleOptions](https://contest.stratalerts.com/)  
 #### Java, Spring Boot, React, Postgres, Tailwind  
